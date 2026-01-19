@@ -1,7 +1,7 @@
 # 📊 Dashboard de Vendas - Xbox Game Pass
 
 ## 🎯 Objetivo
-Este projeto foi desenvolvido como parte do **Desafio de Projeto do Bootcamp Santander 2º Semestre - Excel com Inteligência Artificial**, cujo objetivo foi transformar dados brutos de assinaturas em informações visuais claras e úteis, permitindo análise eficaz do desempenho de vendas.
+Este projeto foi desenvolvido como parte do **Desafio de Projeto do Bootcamp Santander 2º Semestre - Excel com Inteligência Artificial**, com o objetivo de transformar dados brutos de assinaturas em informações visuais claras e úteis, permitindo análise eficaz do desempenho de vendas.
 
 ## 📂 Base de Dados
 - Planos: Core, Standard, Ultimate  
@@ -27,11 +27,8 @@ Este projeto foi desenvolvido como parte do **Desafio de Projeto do Bootcamp San
 | Menus            | #5BF6A8  |
 | Destaques        | #2AE6B1  |
 
-## 🖼️ Screenshots
-*(adicione imagens do dashboard aqui)*
-
 ## 🚀 Como Usar
-1. Baixe o arquivo `Dashboard Finalizado.xlsx`  
+1. Baixe o arquivo `Dashboard.xlsx`  
 2. Abra no Excel (2016 ou superior)  
 3. Explore os filtros e gráficos dinâmicos  
 
